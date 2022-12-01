@@ -38,4 +38,4 @@ var silence = {
   },
 }
 //设置生效日期区间
-silence.isDuringDate('2022/11/05', '2022/12/01')
+silence.isDuringDate('2022/11/05', '2022/12/02')
