@@ -38,4 +38,6 @@ var silence = {
   },
 }
 //设置生效日期区间
-setTimeout(()=>{silence.isDuringDate('2022/11/05', '2022/12/02')},5000)
+$(document).ready(function(){
+  silence.isDuringDate('2022/11/05', '2022/12/02')
+})
