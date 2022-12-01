@@ -41,5 +41,7 @@ $(document).ready(function(){
     },
   }
 
-  silence.isDuringDate('2022/11/05', '2022/12/02')
+  setTimeout(()=>{
+    silence.isDuringDate('2022/11/05', '2022/12/02')
+  }, 5000)
 })
