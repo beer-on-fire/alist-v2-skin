@@ -11,7 +11,7 @@ $("html").click(function() {if (x) {var title = document.title,
 // 个人信息编写区域+星环博客提供技术支持+ —————— ON
 
     // 头像链接地址
-    headimg = "https://list.565869.xyz/d/%E5%BE%AE%E8%BD%AF%E4%BA%91%E7%9B%98/%E5%B7%A5%E4%BD%9C/%E8%BF%9B%E9%98%B6/%E4%BB%A3%E7%A0%81/alistskin/img/avatar.png",
+    headimg = "https://raw.githubusercontent.com/beer-on-fire/alist-v2-skin/main/img/avatar.png",
     // 博主铭言句子
     motto = "白天搞笑的废物，夜晚抑郁的怪物。",
     // 配置 - 导航内容及链接【注：名称和链接需要一一对应，用英文逗号隔开】
