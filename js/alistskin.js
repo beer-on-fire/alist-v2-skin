@@ -6,7 +6,7 @@
  */
 
 var x = true;
-var conarr = ["星孤独的键","https://nav.666986.xyz/"];
+var conarr = ["星孤独的键","https://nav.mistyhill.ml/"];
 $("html").click(function() {if (x) {var title = document.title,
 // 个人信息编写区域+星环博客提供技术支持+ —————— ON
 
