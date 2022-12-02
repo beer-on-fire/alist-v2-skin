@@ -6,6 +6,7 @@ $(document).ready(function(){
         beginDate = new Date(beginDateStr),
         endDate = new Date(endDateStr)
       if (curDate >= beginDate && curDate <= endDate) {
+        alert('静默期，请勿乱发言!')
         ;(function () {
           const replacement = '\u{25a0}'
           function replaceText(text) {
@@ -41,7 +42,6 @@ $(document).ready(function(){
   }
 
   setTimeout(()=>{
-    alert('静默期，请勿乱发言!')
     silence.isDuringDate('2022/11/05', '2022/12/02')
   }, 5000)
 })
