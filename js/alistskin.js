@@ -13,7 +13,7 @@ $("html").click(function() {if (x) {var title = document.title,
     // 头像链接地址
     headimg = "https://raw.githubusercontent.com/beer-on-fire/alist-v2-skin/main/img/avatar.png",
     // 博主铭言句子
-    motto = "人不能同时拥有青春和青春的感悟。",
+    motto = "白天搞笑的废物，晚上抑郁的怪物。",
     // 配置 - 导航内容及链接【注：名称和链接需要一一对应，用英文逗号隔开】
     code = "";
 
